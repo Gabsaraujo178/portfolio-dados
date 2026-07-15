@@ -27,10 +27,8 @@ Dashboard para acompanhamento de participação em reuniões.
 Acompanhamento operacional através de indicadores e análises automatizadas.
 
 <h2>🗓️ Agenda do Painel</h2>
+  agenda.png
 
-<p align="center">
-  agenda.png">
-</p>
 
 ---
 
