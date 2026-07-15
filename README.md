@@ -18,12 +18,6 @@ Profissional com experiência em análise de dados, automação de processos e d
 
 ---
 
-## 🚀 Projetos
-
-### 📅 Dashboard Agenda de Reuniões
-
-Sistema desenvolvido em Python e Streamlit para gerenciamento de reuniões.
-
 ### 👥 Controle de Presença
 
 Dashboard para acompanhamento de participação em reuniões.
@@ -31,6 +25,8 @@ Dashboard para acompanhamento de participação em reuniões.
 ### 📊 Eficiência da Rota
 
 Acompanhamento operacional através de indicadores e análises automatizadas.
+
+imagens/agenda.png
 
 ---
 
@@ -41,3 +37,5 @@ Acompanhamento operacional através de indicadores e análises automatizadas.
 📧 E-mail gabrielemonteiro17@hotmail.com
 
 🐙 GitHub Gabsaraujo178
+
+
