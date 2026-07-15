@@ -6,16 +6,39 @@ Profissional com experiência em análise de dados, automação de processos e d
 
 🎓 Pós-Graduação em Análise de Dados
 
+💻 Tecnologias:
+
+- Python
+- Streamlit
+- Power BI
+- SQL
+- Excel Avançado
+- Pandas
+- Git e GitHub
+
 ---
 
-## 🗓️ Agenda do Painel
+### 👥 Controle de Presença
 
-agenda.png
+Dashboard para acompanhamento de participação em reuniões.
+
+### 📊 Eficiência da Rota
+
+Acompanhamento operacional através de indicadores e análises automatizadas.
+
+<h2>🗓️ Agenda do Painel</h2>
+
+<p align="center">
+  agenda.png">
+</p>
 
 ---
 
-## 📞 Contato
+## 📞 Contato 11 97726-0555
 
-💼 LinkedIn: https://www.linkedin.com/in/gabrielearaujo178/  
-📧 E-mail: gabrielemonteiro17@hotmail.com  
-🐙 GitHub: Gabsaraujo178
+💼 LinkedIn https://www.linkedin.com/in/gabrielearaujo178/
+
+📧 E-mail gabrielemonteiro17@hotmail.com
+
+🐙 GitHub Gabsaraujo178
+
