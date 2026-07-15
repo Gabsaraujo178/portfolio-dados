@@ -28,7 +28,7 @@ Acompanhamento operacional através de indicadores e análises automatizadas.
 
 ## 📅 Dashboard Agenda
 
-agenda.png
+./prescrições%20de%20imagens/agenda.png
 
 ---
 
